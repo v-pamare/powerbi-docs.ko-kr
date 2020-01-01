@@ -131,7 +131,7 @@ Power BI Desktop에서 [매개 변수](https://powerbi.microsoft.com/blog/deep-d
 * [Power BI 앱 제품](https://docs.microsoft.com/azure/marketplace/cloud-partner-portal/power-bi/cpp-power-bi-offer)에 대한 설명서를 따라야 합니다.
 * 대시보드가 앱의 일부인 경우 비어 있지 않은지 확인합니다.
 * 앱을 제출하기 전에 앱 링크를 사용하여 앱을 설치합니다. 데이터 세트와 앱 환경을 계획대로 연결할 수 있는지 확인합니다.
-* bpix를 템플릿 작업 영역에 업로드하기 전에 불필요한 연결을 언로드해야 합니다.
+* pbix를 템플릿 작업 영역에 업로드하기 전에 불필요한 연결을 언로드해야 합니다.
 * 사용자에게 미치는 최대한의 영향을 획득하고 배포 승인을 받을 수 있도록, Power BI [보고서 및 시각적 개체 모범 디자인 사례](https://docs.microsoft.com/power-bi/visuals/power-bi-visualization-best-practices)를 따릅니다.
 <!--- * In general, only application with valuable functionality can be approved for general use on AppSource. Application with sample data content only must have either a guidance or statistical value.) -->
 
